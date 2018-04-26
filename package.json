@@ -68,7 +68,7 @@
     "rxjs": "^5.5.8",
     "sqlite3": "^4.0.0",
     "swagger-test-templates": "^1.4.3",
-    "ts-node": "^5.0.1",
+    "ts-node": "^6.0.1",
     "tweetnacl-util": "^0.15.0",
     "typedoc": "^0.11.1",
     "typeorm": "^0.2.0-alpha.42",
