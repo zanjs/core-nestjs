@@ -67,7 +67,7 @@
     "@nestjs/websockets": "^4.6.6",
     "@types/dotenv": "^4.0.3",
     "@types/jsonwebtoken": "^7.2.6",
-    "@types/node": "^9.6.2",
+    "@types/node": "^10.0.3",
     "class-transformer": "^0.1.9",
     "class-validator": "^0.8.5",
     "connection-string": "^0.4.1",
